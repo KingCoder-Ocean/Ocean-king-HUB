@@ -7,3 +7,5 @@
 
 ## Step 2.2 – Analysis of current operations
 Stock checker tool - https://oceanking-stockchecker.abhit-kaul-e59.workers.dev/
+
+## Data warehouse Idea - https://kingcoder-ocean.github.io/Datawarehouse-Idea/
