@@ -9,3 +9,4 @@
 Stock checker tool - https://oceanking-stockchecker.abhit-kaul-e59.workers.dev/
 
 ## Data warehouse Idea - https://kingcoder-ocean.github.io/Datawarehouse-Idea/
+## Routing - https://kingcoder-ocean.github.io/Routing/
